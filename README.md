@@ -1,1 +1,1 @@
-# cflib_proposed
+First cut at proposed cflib.org libraries hosted instead on GitHub.
